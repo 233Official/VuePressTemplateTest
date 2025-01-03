@@ -4,7 +4,9 @@ import { Sidebar } from "./sidebar";
 import { sitemap } from "vuepress-theme-hope";
 
 export default hopeTheme({
-  hostname: "https://233official.github.io/dailynotes/",
+  // hostname: "https://233official.github.io/dailynotes/",
+  hostname: "https://233official.github.io/VuePressTemplateTest/",
+
 
   author: {
     name: "233",
